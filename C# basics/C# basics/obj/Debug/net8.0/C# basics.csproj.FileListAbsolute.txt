@@ -1,0 +1,14 @@
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\bin\Debug\net8.0\C# basics.exe
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\bin\Debug\net8.0\C# basics.deps.json
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\bin\Debug\net8.0\C# basics.runtimeconfig.json
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\bin\Debug\net8.0\C# basics.dll
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\bin\Debug\net8.0\C# basics.pdb
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.AssemblyInfoInputs.cache
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.AssemblyInfo.cs
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.csproj.CoreCompileInputs.cache
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.dll
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\refint\C# basics.dll
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.pdb
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.genruntimeconfig.cache
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\ref\C# basics.dll

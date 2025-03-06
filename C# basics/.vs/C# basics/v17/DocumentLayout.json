@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jasan\\Visual Studio\\GitHub\\COMP-1003-Csharp\\C# basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60DC7B1E-53F3-4C2F-8657-4E38FF4ADD15}|C# basics\\C# basics.csproj|c:\\users\\jasan\\visual studio\\github\\comp-1003-csharp\\c# basics\\c# basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DC7B1E-53F3-4C2F-8657-4E38FF4ADD15}|C# basics\\C# basics.csproj|solutionrelative:c# basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{29b59575-67fc-487a-ad50-20c439ec1d21}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jasan\\Visual Studio\\GitHub\\COMP-1003-Csharp\\C# basics\\C# basics\\Program.cs",
+              "RelativeDocumentMoniker": "C# basics\\Program.cs",
+              "ToolTip": "C:\\Users\\jasan\\Visual Studio\\GitHub\\COMP-1003-Csharp\\C# basics\\C# basics\\Program.cs",
+              "RelativeToolTip": "C# basics\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:09:16.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
