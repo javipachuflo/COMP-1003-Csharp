@@ -12,3 +12,4 @@ C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Deb
 C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.pdb
 C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.genruntimeconfig.cache
 C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\ref\C# basics.dll
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\C# basics\C# basics\obj\Debug\net8.0\C# basics.sourcelink.json
