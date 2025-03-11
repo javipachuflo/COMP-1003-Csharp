@@ -1,0 +1,15 @@
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\bin\Debug\net8.0\Poker_Hand_Reader.exe
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\bin\Debug\net8.0\Poker_Hand_Reader.deps.json
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\bin\Debug\net8.0\Poker_Hand_Reader.runtimeconfig.json
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\bin\Debug\net8.0\Poker_Hand_Reader.dll
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\bin\Debug\net8.0\Poker_Hand_Reader.pdb
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\Poker_Hand_Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\Poker_Hand_Reader.AssemblyInfoInputs.cache
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\Poker_Hand_Reader.AssemblyInfo.cs
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\Poker_Hand_Reader.csproj.CoreCompileInputs.cache
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\Poker_Hand_Reader.sourcelink.json
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\Poker_Hand_Reader.dll
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\refint\Poker_Hand_Reader.dll
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\Poker_Hand_Reader.pdb
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\Poker_Hand_Reader.genruntimeconfig.cache
+C:\Users\jasan\Visual Studio\GitHub\COMP-1003-Csharp\Poker_Hand_Reader\Poker_Hand_Reader\obj\Debug\net8.0\ref\Poker_Hand_Reader.dll
